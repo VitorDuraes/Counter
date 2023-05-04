@@ -1,0 +1,24 @@
+body {
+  background-image: url("https://img.freepik.com/free-photo/abstract-flowing-neon-wave-background_53876-101942.jpg ");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+h1 {
+  color: aliceblue;
+}
+
+div {
+  text-align: center;
+  font-size: 50px;
+  border: 10px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+div span {
+  font-size: 100px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+div button {
+  font-size: 25px;
+  border-bottom: 100%;
+  border-radius: 10px;
+}
